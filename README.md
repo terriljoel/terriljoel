@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects using Python, HTML, and DevOps tools<br>👯 I’m looking to collaborate on Python, data, and cloud projects<br>🤝 I’m looking for opportunities to gain practical experience in Data and AI engineering<br>🌱 I’m currently learning Data Engineering, AI/ML, Cloud, and DevOps<br>💬 Ask me about Python, Azure, CI/CD, and automation<br>⚡ Fun fact: I enjoy automating repetitive tasks and learning new technologies
+🤝 I’m looking for opportunities to gain practical experience in Data and AI engineering<br>🌱 I’m currently learning Data Engineering, AI/ML, Cloud, and DevOps<br>💬 Ask me about Python, Azure, CI/CD, and automation<br>⚡ Fun fact: I enjoy automating repetitive tasks and learning new technologies
 
 
 ## 🌐 Socials:
